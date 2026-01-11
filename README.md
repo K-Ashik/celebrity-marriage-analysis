@@ -80,7 +80,7 @@ This generates the chart comparing Hollywood vs. Real World.
 python step4_comparative_analysis.py
 ```
 
-#### Output: comparison_analysis.png
+> *Output: `comparison_analysis.png`*
 
 ### 3. Run the Psycho-Economic Model (The "Oscar Curse")
 This runs the Cox Hazard Model to check if Child Stars are doomed.
@@ -88,7 +88,7 @@ This runs the Cox Hazard Model to check if Child Stars are doomed.
 ```bash
 python step5_psycho_economic_analysis.py
 ```
-#### Output: psycho_economic_dashboard.png
+> *Output: `psycho_economic_dashboard.png`*
 
 ### 4. Run the Culture Test
 This compares divorce rates between USA, UK, and India.
@@ -96,7 +96,7 @@ This compares divorce rates between USA, UK, and India.
 ```bash
 python step7_culture_analysis.py
 ```
-#### Output: culture_profession_dashboard_v2.png
+> *Output: `culture_profession_dashboard_v2.png`*
 
 ## ⚖️ Conclusion
 This project demonstrates that while "fame" is a volatility factor, it is not the only one. Cultural norms (India vs USA) and professional success (Awards) are stronger predictors of stability than Age Gap or Fame Differential.
