@@ -1,4 +1,5 @@
-# 💔 The Science of Celebrity Divorce
+# The Fame Penalty: A Survival Analysis of Celebrity Marriages
+## 💔 The Science of Celebrity Divorce
 **A Data Science Research Project investigating the "Fame Penalty" in modern relationships.**
 
 ![Main Dashboard](celebrity_marriage_dashboard.png)
